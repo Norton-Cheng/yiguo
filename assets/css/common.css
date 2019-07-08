@@ -1,0 +1,23 @@
+body{
+    background-color:#f7f8f8;
+}
+
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.head{
+    height:78px;
+    width:100%;
+    background-color:#e0e0e0;
+}
+
+.head>.wrap{
+    width:1200px;
+    height:78px;
+    margin:0 auto;
+}

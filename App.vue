@@ -1,0 +1,22 @@
+<template>
+ <div>
+    <router-view></router-view>
+    <toTop></toTop>
+ </div>
+</template>
+
+<style>
+   .app-container{
+     padding-top:0px;
+     padding-bottom:0px;
+     overflow-x:hidden;
+   }
+   a{
+      text-decoration:none;
+      color:#000;
+   }
+   *{
+      padding:0;
+      margin:0;
+   }
+</style>
